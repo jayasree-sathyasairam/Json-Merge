@@ -1,6 +1,13 @@
 # Json-Merge
 
 A python script to merge a series of files containing JSON array of Objects into a single file containing one JSON object.
+The script prompts the user to enter the following inputs:
+* Folder path - C:\\Users\\Jayasree\\json_repo
+* Input file base name - data
+* Output file base name - merge
+* Maximum file size (in bytes) - 200
+
+Note that maximum allowed file size should atleast be bigger than the biggest individual input file size.
 
 # Dependencies
 Make sure the following packages have already been installed before running the code:
