@@ -8,7 +8,7 @@ The script prompts the user to enter the following inputs:
 * Maximum file size (in bytes) - 200
 
 Note that maximum allowed file size should atleast be bigger than the biggest individual input file size.
-Also use '\\' double backslash in your folder path.
+Also use '\\\\' double backslash in your folder path.
 
 # Dependencies
 Make sure the following packages have already been installed before running the code:
